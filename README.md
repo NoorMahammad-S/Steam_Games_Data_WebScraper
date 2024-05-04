@@ -52,10 +52,4 @@ python steam_game_scraper.py
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 **Disclaimer:** This script is intended for educational and personal use only. Please respect the terms of service and usage policies of the websites you scrape and ensure compliance with relevant laws and regulations.
